@@ -45,4 +45,5 @@ duti -s com.microsoft.VSCode .yaml all
 duti -s com.microsoft.VSCode .yml all
 duti -s com.microsoft.VSCode .toml all
 duti -s com.microsoft.VSCode .tsv all
+duti -s com.microsoft.VSCode .pbtxt all
 ```
